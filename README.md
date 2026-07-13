@@ -1,6 +1,4 @@
-# FlowStater — What's New
-
-## Changes from the original
+# FlowStater 
 
 ### 1. Login Page
 First screen is a login with Employee ID + Password. Demo auto-fill buttons at the bottom.
