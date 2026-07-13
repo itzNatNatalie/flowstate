@@ -1,4 +1,4 @@
-# FlowStater 🚀
+# FlowStater 
 ## From Operational Overhead to Enterprise Intelligence
 FlowStater is an AI-powered knowledge management and collaboration platform designed to help organisations transform scattered information into structured, accessible, and actionable intelligence.
 
@@ -8,7 +8,7 @@ The platform enables organisations to securely store, manage, and retrieve inter
 
 
 # Key Features
-## 🔐 1. Secure Role-Based Access Control
+## 1. Secure Role-Based Access Control
 FlowStater implements a clearance-driven access system to ensure sensitive information is only available to authorised users.
 
 Features:
@@ -28,7 +28,7 @@ Features:
 | Jordan Wu | `2538755` | `2538755nat` | Level 3 — Executive |
 
 
-# 📚 2. Intelligent Document Knowledge Library
+# 2. Intelligent Document Knowledge Library
 FlowStater provides a centralised knowledge repository where employees can efficiently manage organisational documents.
 
 Features:
@@ -41,7 +41,7 @@ Features:
 All users with matching or higher clearance levels can access relevant documents, reducing information silos across teams.
 
 
-# 🤖 3. Context-Aware AI Assistant
+# 3. Context-Aware AI Assistant
 FlowStater integrates Generative AI to help employees interact with organisational knowledge more efficiently.
 
 Features:
@@ -59,7 +59,7 @@ The AI assistant helps users quickly understand information, ask questions, and 
 
 
 
-# 🔄 4. Enterprise Workflow Intelligence
+# 4. Enterprise Workflow Intelligence
 
 Beyond document storage, FlowStater aims to reduce operational overhead by turning organisational knowledge into actionable insights.
 Potential applications:
@@ -70,7 +70,7 @@ Potential applications:
 - More efficient knowledge sharing across departments
 
 
-# 🎨 Brand Identity
+# Brand Identity
 **Project Name:** FlowStater
 **Design System**
 - Primary colours:
